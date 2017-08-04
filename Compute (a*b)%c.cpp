@@ -1,14 +1,4 @@
 #include<bits/stdc++.h>
-#include<iostream>
-#include<algorithm>
-#include<vector>
-#include<set>
-#include<stack>
-#include<string>
-#include<istream>
-#include<limits>
-#include<queue>
-#include<map>
 using namespace std;
 #define pb  push_back
 #define mk make_pair
